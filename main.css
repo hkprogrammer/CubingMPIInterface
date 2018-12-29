@@ -1,0 +1,31 @@
+#head{
+
+	min-width: 80%;
+	
+	min-height: 200px;
+
+
+}
+
+.col-4{
+	background-color: white;
+	border: 1px solid black;
+	width: 200px;
+	height: 200px;
+
+}
+
+
+#pass{
+	max-width: 60%;
+
+}
+
+#tabone,#tabtwo,#tabthree{
+
+	font-size: 200%;
+	font-stretch: 1%;
+	letter-spacing: 20px;
+
+
+}
